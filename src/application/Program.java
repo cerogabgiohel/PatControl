@@ -12,6 +12,7 @@ public class Program {
 		Patrimonio pat = new Patrimonio (83, "Positivo", "Positivo", "ABNT-2", 1, obj);
 		
 		System.out.println(pat);
+		System.out.println(obj);
 	}
 
 }
